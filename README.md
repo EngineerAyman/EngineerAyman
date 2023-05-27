@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EngineerAyman
 - Embedded Systems Trainee at Information Technology Institute (ITI)
-- - 🌱 I’m currently learning Embedded systems. 
+- I’m currently learning Embedded systems. 
 - 📫 you can reach me via Email:AymanSamyHarraz@gmail.com
 
 <!---
